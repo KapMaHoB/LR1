@@ -1,2 +1,2 @@
-# LR1
-Laboratorna
+
+My first repository
